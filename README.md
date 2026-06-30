@@ -16,8 +16,7 @@ Software Engineering Student | Aspiring Frontend Developer | Passionate About Co
 <img src="https://komarev.com/ghpvc/?username=IqraBatoolAbbas&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
-<img align="right" alt="Coding Girl" width="350" src="images.jpg"/>
-
+<img align="right" alt="Coding Girl" width="350" height="200" style="border-radius:20px; margin-top:20px;" src="images.jpg"/>
 ---
 
 # 👩‍💻 About Me
